@@ -1,0 +1,101 @@
+/*header section */
+.header{
+    
+}
+.banner-image{
+    display: block;
+    margin: auto;
+}
+.banner-text{
+    position:absolute;
+    color: #FFF;
+text-align: center;
+    font-size: larger;
+    top: 50%;
+    left: 50%;
+}
+
+/* main section */
+
+/* 65% OFF section */
+
+
+.discount1{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+}
+.discount2{
+    color: #F00;
+    text-align: center;;
+    font-size: 24px;
+}
+.discount3{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    
+}
+.nyp01{
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 65px;
+}
+
+/* midnight section */
+
+.midnight{
+    color: #FFF;
+    display: flex;
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+    background-position: ;
+    justify-content: space-around;
+}
+.midnight-text{
+    position: absolute;
+    top: 0;
+    color: #FFF;
+    padding: 30px 30px 30px 150px;
+}
+.mp{
+    font-size: 64px;
+}
+.mp-p{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.80);
+}
+
+/*footer section */
+footer{
+    color: #FFF;
+    background:#070211;
+}
+.social-links{
+    padding: 50px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.social-links a{
+    margin-right: 30px;
+}
+
+.footer-column0{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+#btn1{
+    color: #FFF;
+    background: #070211;
+    border: none;
+}
+
+
+
+
